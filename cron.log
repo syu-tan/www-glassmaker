@@ -1,2 +1,4 @@
+remote: Internal Server Error
 To github.com:syu-tan/www-glassmaker.git
-   9c76fb9a..0e45a650  main -> main
+ ! [remote rejected]   main -> main (Internal Server Error)
+error: failed to push some refs to 'git@github.com:syu-tan/www-glassmaker.git'
