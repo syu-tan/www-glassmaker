@@ -1,5 +1,2 @@
-ssh: connect to host github.com port 22: No route to host
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
+To github.com:syu-tan/www-glassmaker.git
+   3ffed28c..8af4a9b9  main -> main
