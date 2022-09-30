@@ -1,2 +1,5 @@
-To github.com:syu-tan/www-glassmaker.git
-   e03d0b238..b06a27c9c  main -> main
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
