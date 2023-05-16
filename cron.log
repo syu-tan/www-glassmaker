@@ -1,3 +1,5 @@
 remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+remote: fatal error in commit_refs        
 To github.com:syu-tan/www-glassmaker.git
-   63fa8c18b..4bcc0d573  main -> main
+ ! [remote rejected]     main -> main (failure)
+error: failed to push some refs to 'git@github.com:syu-tan/www-glassmaker.git'
