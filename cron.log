@@ -1,3 +1,5 @@
-remote: Resolving deltas:   0% (0/1)        remote: Resolving deltas: 100% (1/1)        remote: Resolving deltas: 100% (1/1), completed with 1 local object.        
-To github.com:syu-tan/www-glassmaker.git
-   77bef3fdc..67189bc47  main -> main
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
