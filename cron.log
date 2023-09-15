@@ -1,2 +1,5 @@
-To github.com:syu-tan/www-glassmaker.git
-   9cfbf4d58..ba06582e6  main -> main
+client_loop: send disconnect: Broken pipe
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
